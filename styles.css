@@ -1,0 +1,25 @@
+body {
+    color: rgb(13, 0, 128);
+}
+
+header {
+    background-color: aqua;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer {
+    background-color: rgb(196, 249, 255);
+    color: blue;
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
