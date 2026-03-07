@@ -1,18 +1,19 @@
 body {
-    color: rgb(13, 0, 128);
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 header {
     background-color: aqua;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+    color: black;
+    text-decoration-style: wavy;
+    justify-content: content position;
+    center
 }
 
 footer {
     background-color: rgb(196, 249, 255);
-    color: blue;
+    color: black
 }
 
 .centered {
